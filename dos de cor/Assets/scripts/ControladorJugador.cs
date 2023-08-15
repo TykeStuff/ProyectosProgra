@@ -17,7 +17,7 @@ public class ControladorJugador : MonoBehaviour
     {
         if (Input.GetButtonDown("Jump"))
         {
-            print("Se presion+o salto");
+            print("Se presionó salto");
             miCuerpo.AddForce(
                 new Vector3(
                     0,//x
