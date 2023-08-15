@@ -1,0 +1,7 @@
+C:\Users\diego.castanedamar\Documents\GitHub\APPDECON\coso\coso\bin\Debug\coso.exe.config
+C:\Users\diego.castanedamar\Documents\GitHub\APPDECON\coso\coso\bin\Debug\coso.exe
+C:\Users\diego.castanedamar\Documents\GitHub\APPDECON\coso\coso\bin\Debug\coso.pdb
+C:\Users\diego.castanedamar\Documents\GitHub\APPDECON\coso\coso\obj\Debug\coso.csproj.AssemblyReference.cache
+C:\Users\diego.castanedamar\Documents\GitHub\APPDECON\coso\coso\obj\Debug\coso.csproj.CoreCompileInputs.cache
+C:\Users\diego.castanedamar\Documents\GitHub\APPDECON\coso\coso\obj\Debug\coso.exe
+C:\Users\diego.castanedamar\Documents\GitHub\APPDECON\coso\coso\obj\Debug\coso.pdb
