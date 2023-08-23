@@ -1,0 +1,7 @@
+C:\Users\kodai\OneDrive\Documentos\GitHub\ProyectosProgra\Shingadera1\CarreraCoches\bin\Debug\CarreraCoches.exe.config
+C:\Users\kodai\OneDrive\Documentos\GitHub\ProyectosProgra\Shingadera1\CarreraCoches\bin\Debug\CarreraCoches.exe
+C:\Users\kodai\OneDrive\Documentos\GitHub\ProyectosProgra\Shingadera1\CarreraCoches\bin\Debug\CarreraCoches.pdb
+C:\Users\kodai\OneDrive\Documentos\GitHub\ProyectosProgra\Shingadera1\CarreraCoches\obj\Debug\CarreraCoches.csproj.AssemblyReference.cache
+C:\Users\kodai\OneDrive\Documentos\GitHub\ProyectosProgra\Shingadera1\CarreraCoches\obj\Debug\CarreraCoches.csproj.CoreCompileInputs.cache
+C:\Users\kodai\OneDrive\Documentos\GitHub\ProyectosProgra\Shingadera1\CarreraCoches\obj\Debug\CarreraCoches.exe
+C:\Users\kodai\OneDrive\Documentos\GitHub\ProyectosProgra\Shingadera1\CarreraCoches\obj\Debug\CarreraCoches.pdb

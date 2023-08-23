@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shingadera1", "Shingadera1\Shingadera1.csproj", "{3883251F-89FB-49D1-8D6D-556BD43B30BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarreraCoches", "CarreraCoches\CarreraCoches.csproj", "{2AF9E219-9F38-4000-9712-DD223A540DB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3883251F-89FB-49D1-8D6D-556BD43B30BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3883251F-89FB-49D1-8D6D-556BD43B30BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3883251F-89FB-49D1-8D6D-556BD43B30BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3883251F-89FB-49D1-8D6D-556BD43B30BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF9E219-9F38-4000-9712-DD223A540DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF9E219-9F38-4000-9712-DD223A540DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF9E219-9F38-4000-9712-DD223A540DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF9E219-9F38-4000-9712-DD223A540DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31F26FD1-AA13-4AEE-8A55-00EFAEE8B1D1}
+	EndGlobalSection
+EndGlobal
